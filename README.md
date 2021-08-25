@@ -17,3 +17,12 @@
 -As a player, I want lofi tunes so that it is chill.
 -As a player, I want the game to keep track of past games so that I can keep track of my wins.
 -As a player, I want to play online so that I can play during covid.
+
+
+## Wireframes
+
+```md
+![alt text](path or URL)
+```
+
+![Tic Tac Toe Wireframe Main Page View](https://user-images.githubusercontent.com/88410952/130824535-9606eb0e-5470-4e11-8ab5-e6f394590d21.jpg)
